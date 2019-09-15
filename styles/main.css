@@ -1,5 +1,6 @@
 .navbar {
     background-color: rgba(104, 151, 236, 0.8);
+    margin-bottom: 5px;
 }
 .dropdown-menu {
     background-color: #e081811a;
